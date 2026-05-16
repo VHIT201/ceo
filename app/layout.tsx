@@ -19,6 +19,8 @@ export const metadata: Metadata = {
   description: "Trần Thanh Tuyền, Thạc sĩ, CEO & Giám đốc Quản lý MeU Solutions. Đồng trưởng Làng Design Thinking tại Techfest Việt Nam. Chuyên gia về Cloud-native, microservices, AI-powered SaaS products (One2 Ecosystem, Shinobi AI, Anawork). Đánh giá 5.0/5 trên GoodFirms, 4.5/5 trên Clutch.",
   keywords: ["Trần Thanh Tuyền", "CEO MeU Solutions", "Technology Executive", "AI SaaS", "Software Testing", "Context-Driven Testing", "Design Thinking", "One2 Ecosystem", "Shinobi AI", "Anawork", "Cloud-native", "Microservices", "Offshore Development"],
   openGraph: {
+    type: "website",
+    siteName: "MeU Solutions",
     title: "Trần Thanh Tuyền — CEO & Managing Director, MeU Solutions | Technology Executive & AI-Powered SaaS",
     description: "Trần Thanh Tuyền, Thạc sĩ, CEO & Giám đốc Quản lý MeU Solutions. Đồng trưởng Làng Design Thinking tại Techfest Việt Nam. Chuyên gia về Cloud-native, microservices, AI-powered SaaS products (One2 Ecosystem, Shinobi AI, Anawork). Đánh giá 5.0/5 trên GoodFirms, 4.5/5 trên Clutch.",
     images: [
