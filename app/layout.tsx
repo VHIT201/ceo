@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     description: "Trần Thanh Tuyền, Thạc sĩ, CEO & Giám đốc Quản lý MeU Solutions. Đồng trưởng Làng Design Thinking tại Techfest Việt Nam. Chuyên gia về Cloud-native, microservices, AI-powered SaaS products (One2 Ecosystem, Shinobi AI, Anawork). Đánh giá 5.0/5 trên GoodFirms, 4.5/5 trên Clutch.",
     images: [
       {
-        url: "/ceotuyen.png",
+        url: "https://drive.google.com/uc?export=view&id=1d8suqQSbB0eWIZSOSs7JpStaQkoIuhmD",
         width: 800,
         height: 1000,
         alt: "Trần Thanh Tuyền — CEO & Managing Director, MeU Solutions",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Trần Thanh Tuyền — CEO & Managing Director, MeU Solutions | Technology Executive & AI-Powered SaaS",
     description: "Trần Thanh Tuyền, Thạc sĩ, CEO & Giám đốc Quản lý MeU Solutions. Đồng trưởng Làng Design Thinking tại Techfest Việt Nam. Chuyên gia về Cloud-native, microservices, AI-powered SaaS products (One2 Ecosystem, Shinobi AI, Anawork). Đánh giá 5.0/5 trên GoodFirms, 4.5/5 trên Clutch.",
-    images: ["/ceotuyen.png"],
+    images: ["https://drive.google.com/uc?export=view&id=1d8suqQSbB0eWIZSOSs7JpStaQkoIuhmD"],
   },
 };
 
